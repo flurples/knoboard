@@ -6,7 +6,7 @@ sound test: https://youtu.be/37PdSRpsLzA
 
 ## you will need
 - 1x top, bottom, & plate
-- a lot of ec11 rotary encoders and knobs
+- 27x ec11 rotary encoders and knobs
 - 8x m2 screws
 - rubber feet of your choice
 - a pro micro compatible controller board
